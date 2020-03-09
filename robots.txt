@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oophohgie.susiverse.de/sitemap.xml
